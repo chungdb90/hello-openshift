@@ -6,4 +6,4 @@
  * Time: 10:25 AM
  */
 
-echo "Hello First Open Shift Application! Haha";
+var_dump($_ENV);
