@@ -6,4 +6,4 @@
  * Time: 10:25 AM
  */
 
-var_dump(json_encode($_ENV));
+echo json_encode($_ENV);
